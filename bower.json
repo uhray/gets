@@ -1,0 +1,13 @@
+{
+  "name": "gets",
+  "main": "index.js",
+  "ignore": [
+    "examples/*",
+    "lib/*",
+    "test/*",
+    "*.md",
+    "package.json"
+  ],
+  "dependencies": { }
+}
+
