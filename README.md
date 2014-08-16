@@ -1,4 +1,4 @@
-gets - Create safe javascript getter functions.
+gets - create safe javascript getter functions.
 ====
 
 The examples below should explain the whole API.
