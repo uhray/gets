@@ -1,0 +1,4 @@
+gets
+====
+
+javascript getter functions
