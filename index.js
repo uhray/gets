@@ -2,7 +2,7 @@
   var root = this;
 
   function gets() {
-    var args = Array.prototype.slice.call(arguments, 0);
+    var args = Array.prototype.slice.call(arguments, 0),
         f = function(d) {
           args.forEach(function(x) { d = d && d[x]; });
           return d;

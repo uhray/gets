@@ -1,6 +1,6 @@
 {
   "name": "gets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description" : "Create safe javascript getter functions.",
   "repository" : "git@github.com:uhray/gets.git",
   "dependencies": { }
